@@ -1,0 +1,5 @@
+interface:
+  display_name: "X 赛道情报"
+  short_description: "分层追踪 X 博主并生成事实、观点与推广分离的日报"
+  default_prompt: "Use $x-sector-intelligence to review today's tracked X creators and produce a tiered evidence-oriented digest."
+
